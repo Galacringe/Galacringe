@@ -1,7 +1,5 @@
 
 
-[![Galacringe's GitHub stats](https://github-readme-stats.vercel.app/api?username=galacringe)](https://github.com/anuraghazra/github-readme-stats)  
-
 ![Currently Learning](https://img.shields.io/badge/-Learning-000000?style=for-the-badge&logo=FutureLearn&logoColor=fff)  
 ![Flutter](https://img.shields.io/badge/-Flutter-0175c2?style=for-the-badge&logo=flutter&logoColor=fff)
 ![Dart](https://img.shields.io/badge/-Dart-0175c2?style=for-the-badge&logo=dart&logoColor=fff)
