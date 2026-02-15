@@ -1,12 +1,12 @@
-# **SUEÑO IMPOSIBLE**
+### **SUEÑO IMPOSIBLE**
 
-# Remarkable Projects
+### Remarkable Projects
 
 **EmergenShare - Flutter + Firebase Ambulance Communication App Surpported By YOLO Image Detection**    
 
 **Project Rhythmical - BA Fan Rhythm Action Game Inspired by Crypt of the Necrodancer**  
 
-# what am I sucks at but trying to
+# Learning
 
 ![Currently Learning](https://img.shields.io/badge/-Learning-000000?style=for-the-badge&logo=FutureLearn&logoColor=fff)  
 ![Flutter](https://img.shields.io/badge/-Flutter-0175c2?style=for-the-badge&logo=flutter&logoColor=fff)
