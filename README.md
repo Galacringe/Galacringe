@@ -7,15 +7,9 @@
 ![Unity](https://img.shields.io/badge/-unity-000000?style=for-the-badge&logo=unity&logoColor=fff)     
 
 **EmergenShare - Flutter + Firebase Ambulance Communication App Surpported By YOLO Image Detection**    
-  
-**BlockShot - Customizable Minecraft Spigot Gun plugin**    
 
-**Rhythmical - BA Fan Rhythm Action Game Inspired by Crypt of the Necrodancer**  
-https://galacringe.itch.io/rhythmical to check this!
+**Project Rhythmical - BA Fan Rhythm Action Game Inspired by Crypt of the Necrodancer**  
 
-My blog (Korean) - https://velog.io/@jkr0404  
-
-Anyways thanks for visit my profile, and have a nice day :D
 
 
 
